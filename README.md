@@ -1,10 +1,10 @@
-### Hi there 👋, I'm lisa from Belarus 
+### Hi there 👋
  ✈ telegram [elizavetaboo](https://t.me/elizavetaboo)
  -----
 
 <!-- - 🌱 I’m currently learning frontend develo -->
 
-![GuZ8yHhFQDU](https://user-images.githubusercontent.com/87004621/207282063-3cba6a97-ce3e-4158-afb4-0cea86e09f05.jpg)
+![GuZ8yHhFQDU](https://user-images.githubusercontent.com/87004621/207284883-24bf25d6-377a-4307-8c92-b7ca5ca351df.jpg)
 
 
 
