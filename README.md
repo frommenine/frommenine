@@ -5,7 +5,7 @@
 
 <!-- - 🌱 I’m currently learning frontend develo -->
 
-![GuZ8yHhFQDU](https://user-images.githubusercontent.com/87004621/207284883-24bf25d6-377a-4307-8c92-b7ca5ca351df.jpg)
+<!-- ![GuZ8yHhFQDU](https://user-images.githubusercontent.com/87004621/207284883-24bf25d6-377a-4307-8c92-b7ca5ca351df.jpg) -->
 
 
 
