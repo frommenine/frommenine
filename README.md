@@ -1,7 +1,7 @@
 ### Hi there <img src="https://user-images.githubusercontent.com/87004621/208932273-0f505710-5adb-4d6f-ad0b-5879afe90956.gif" width="40" height="40">
 
- ✈ telegram [elizavetaboo](https://t.me/elizavetaboo)
- -----
+telegram [elizavetaboo](https://t.me/elizavetaboo)
+<!--  ----- -->
 
 <!-- - 🌱 I’m currently learning frontend develo -->
 
